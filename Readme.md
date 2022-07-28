@@ -1,7 +1,7 @@
-#Github intro
+##Github intro
 
 ## This is my first Github Project
 
-#Minor change
+##Minor change
 
-## Another Minor Change
+## Another Minor Change"
