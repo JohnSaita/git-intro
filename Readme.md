@@ -2,4 +2,6 @@
 
 ## This is my first Github Project
 
-#mInor change
+#Minor change
+
+## Another Minor Change
